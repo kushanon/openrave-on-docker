@@ -1,9 +1,0 @@
-[submodule "docker-ubuntu-vnc-desktop"]
-	path = docker-ubuntu-vnc-desktop
-	url = https://github.com/fcwu/docker-ubuntu-vnc-desktop.git
-[submodule "openrave"]
-	path = openrave
-	url = https://github.com/rdiankov/openrave.git
-[submodule "fparser"]
-	path = fparser
-	url = https://github.com/thliebig/fparser.git
